@@ -505,7 +505,7 @@ Antes de iniciar, certifique-se de ter instalado:
 ### Passo 1 — Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/petflow-api.git
+git clone git clone [https://github.com/seu-usuario/petflow-api.git](https://github.com/Benitez561792/PetFlow.git)
 cd petflow-api/PetFlowAPI
 ```
 
@@ -581,7 +581,7 @@ dotnet ef database update
 ### Resumo rápido
 
 ```bash
-git clone https://github.com/seu-usuario/petflow-api.git
+git clone git clone [https://github.com/seu-usuario/petflow-api.git](https://github.com/Benitez561792/PetFlow.git)
 cd petflow-api/PetFlowAPI
 # 1. Execute o script clyvo_vet_corrigido.sql no Oracle
 # 2. Edite appsettings.json com suas credenciais Oracle
